@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Auxence Massieux</h1>
-<h3 align="center">🔐 Cybersecurity & Embedded Systems Enthusiast | Master's Student @ École des Mines de Saint-Étienne</h3>
+<h3 align="center">🔐 Cybersecurity & Coding Enthusiast | Master's Student @ École des Mines de Saint-Étienne</h3>
 
 
 <p align="center">
